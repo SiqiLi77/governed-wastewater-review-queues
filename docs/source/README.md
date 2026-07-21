@@ -1,8 +1,10 @@
 # Editable figure source
 
-`repository_overview_editable.pptx` contains only native PowerPoint shapes and
-text. It has no embedded raster artwork and can be edited directly in
-PowerPoint.
+The two PowerPoint files contain only native shapes and text. They have no
+embedded raster artwork and can be edited directly in PowerPoint:
+
+- `repository_overview_editable.pptx`: README mechanism diagram
+- `social_preview_editable.pptx`: GitHub social-preview artwork
 
 Published derivatives:
 
