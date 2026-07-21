@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software if you use the governed queue implementation."
+title: "Governed review queues for wastewater surveillance"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Siqi"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/SiqiLi77/governed-wastewater-review-queues"
+abstract: >-
+  A reference implementation of deterministic, fixed-capacity review queues
+  with declared reserve slots, duplicate prevention, global fill, and an
+  auditable selection ledger.
+keywords:
+  - wastewater surveillance
+  - review queues
+  - evidence governance
+  - fixed-capacity ranking
