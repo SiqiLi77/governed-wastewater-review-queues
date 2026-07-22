@@ -3,7 +3,7 @@
 Reference implementation for transparent, fixed-capacity evidence review in
 multipathogen wastewater surveillance.
 
-![Deterministic governed queue mechanism](docs/assets/repository_overview.svg)
+![Deterministic governed queue mechanism](docs/assets/repository_overview.png)
 
 ## What this repository provides
 
